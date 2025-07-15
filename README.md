@@ -19,7 +19,7 @@ $5 + n + m$.
 ## Получить данные
 
 Сгенерируйте данные при помощи [Симуляции работы сервиса
-такси](https://gitlab.com/event-processing-msu/taxi-simulator/) *(можно с
+такси](https://github.com/shlapique/taxi-service-simulator) *(можно с
 дефолтным 'config')*
 
 После поместите данные симуляции в `input-data` в корне `flink-playground`
